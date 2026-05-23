@@ -14,6 +14,8 @@ This project is a personal implementation of [micrograd](https://github.com/karp
 
 The goal is purely educational: understand exactly what happens under the hood when a neural network trains — how gradients flow backwards through a computation graph and how weights get updated step by step.
 
+<img width="1352" height="169" alt="image" src="https://github.com/user-attachments/assets/1c4a9df9-93b4-4acb-82c0-4b980c6030a9" />
+
 ---
 
 ## ✨ Features
